@@ -44,3 +44,10 @@ ul.posts li {
 .shadow {
     text-shadow: 4px 4px 2px rgba(150, 150, 150, 1);
 }
+#overlay 
+{
+    position: relative;
+    top: -150px;
+    color: #860101;
+    text-shadow: white 0px 0px 10px;
+}
