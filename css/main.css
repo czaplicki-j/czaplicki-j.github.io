@@ -13,7 +13,9 @@ p
   font-size: large;
   color: #0000ff;
   background-color: rgba(121,0,250,.7);
+  /*
   padding: 10px;
+  */
 }
 #background {
  background: url("https://czaplicki-j.github.io/90s.jpg");
