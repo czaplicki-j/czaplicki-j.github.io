@@ -16,8 +16,9 @@ p
   padding: 30px;
 }
 .background{
- background-image: url("czaplicki-j.github.io/90s");
+ background-image: url("https://czaplicki-j.github.io/90s.jpg");
 }
+ 
 .shadow {
   text-shadow: 4px 4px 2px rgba(150, 150, 150, 1);
 }
