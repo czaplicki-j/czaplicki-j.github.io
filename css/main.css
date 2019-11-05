@@ -10,8 +10,8 @@ h1
 p
 {
   font-family: "Comic Sans MS", "Comic Sans";
-  font-size: large;
-  color: #0000ff;
+  font-size: 50px;
+  color: #f2ff00;
   background-color: rgba(121,0,250,.7);
   padding: 15px;
 }
