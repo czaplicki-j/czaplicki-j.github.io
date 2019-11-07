@@ -1,0 +1,43 @@
+h1
+{
+  font-family: "Times New Roman", Times, serif;
+  font-size: 30px;
+  text-align: center;
+  color: rgb(209, 10, 123);
+}
+p
+{
+font-family: "Georgia", Times, serif;
+font-size: 25px;
+color: rgb(0,0,0);
+text-align: center;
+}
+/*
+#background {
+ background: url("https://czaplicki-j.github.io/90s.jpg");
+}
+*/
+ 
+
+#vertical {
+    color: rgb(255,255,255);
+    background-color: red;
+    writing-mode: vertical-lr;
+    text-orientation: mixed;
+    float: left;
+    font-size: 25px;
+    padding: 1px;
+}
+#numbers {
+    font-size: 20px;
+    text-align: center;
+    color: rgb(209, 10, 123);
+}
+#powerNumbers{
+    font-size: 40px;
+    text-align: center;
+    color: black;
+}
+.headerBack{
+    background-image: url("headerBackground.jpg") 
+}
