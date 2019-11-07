@@ -38,3 +38,6 @@ text-align: center;
     text-align: center;
     color: black;
 }
+#headerBack{
+    background-image: url("headerBackground.jpg") 
+}
