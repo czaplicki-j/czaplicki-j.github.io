@@ -38,6 +38,6 @@ text-align: center;
     text-align: center;
     color: black;
 }
-.headerBack{
-    background: url("https://czaplicki-j.github.io/headerBackground.jpg") 
+#headerBack{
+    background-image: url("https://czaplicki-j.github.io/headerBackground.jpg") 
 }
