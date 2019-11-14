@@ -5,6 +5,14 @@ h1
   text-align: center;
   color: rgb(209, 10, 123);
 }
+h2{
+    font-family: "Times New Roman", Times, serif;
+    text-align: center;
+}
+h3{
+    font-family: "Times New Roman", Times, serif;
+    text-align: center;
+}
 p
 {
 font-family: "Georgia", Times, serif;
@@ -37,4 +45,11 @@ text-align: center;
     font-size: 40px;
     text-align: center;
     color: black;
+}
+#dash{
+ white-space: nowrap;
+    width: 1500px;
+    text-overflow: clip; 
+    position: relative;
+   text-align: center;
 }
