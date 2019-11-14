@@ -53,9 +53,5 @@ text-align: center;
     color: black;
 }
 #dash{
- white-space: nowrap;
-    width: 1500px;
-    text-overflow: clip; 
-    position: relative;
    text-align: center;
 }
