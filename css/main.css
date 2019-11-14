@@ -28,6 +28,9 @@ text-align: center;
  
 
 #vertical {
+     white-space: nowrap;
+    text-overflow: clip;
+    height: 98%;
     color: rgb(255,255,255);
     background-color: red;
     writing-mode: vertical-lr;
