@@ -29,11 +29,9 @@ text-align: center;
 
 #vertical {
     position: relative;
-   height: 750px;
     width: 25px;
     left: -8px;
-     white-space: normal;
-    text-overflow: clip;
+     white-space: nowrap;
     color: rgb(255,255,255);
     background-color: red;
     writing-mode: vertical-lr;
