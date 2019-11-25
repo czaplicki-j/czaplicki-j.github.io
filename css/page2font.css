@@ -15,8 +15,49 @@ font-family: 'Vast Shadow', cursive;
 }
 p
 {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Open Sans', open-sans;
 font-size: 25px;
 color: rgb(0,0,0);
 text-align: center;
+}
+
+#background {
+ background: url("https://czaplicki-j.github.io/PowerBallLogo2.png");
+} 
+
+#vertical {
+    position: relative;
+    width: 25px;
+    left: -8px;
+     white-space: nowrap;
+    color: rgb(255,255,255);
+    background-color: red;
+    writing-mode: vertical-lr;
+    text-orientation: mixed;
+    float: left;
+    font-size: 25px;
+    padding: 1px;
+ -webkit-transform:rotate(-180deg);
+-moz-transform:rotate(-180deg);
+-o-transform:rotate(-180deg);
+transform:rotate(-180deg);
+}
+#numbers {
+    font-size: 20px;
+    text-align: center;
+    color: rgb(209, 10, 123);
+}
+#powerNumbers{
+    font-size: 40px;
+    text-align: center;
+    color: black;
+}
+#dash{
+   text-align: center;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
