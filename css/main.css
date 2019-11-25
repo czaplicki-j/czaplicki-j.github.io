@@ -20,12 +20,10 @@ font-size: 25px;
 color: rgb(0,0,0);
 text-align: center;
 }
-/*
+
 #background {
- background: url("https://czaplicki-j.github.io/90s.jpg");
-}
-*/
- 
+ background: url("https://czaplicki-j.github.io/PowerBallLogo2.png");
+} 
 
 #vertical {
     position: relative;
