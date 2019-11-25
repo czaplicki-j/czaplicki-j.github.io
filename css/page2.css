@@ -1,0 +1,83 @@
+/*Font styles and sizes*/
+h1
+{
+font-family: 'Times New Roman', sans serif;
+  font-size: 30px;
+  text-align: center;
+  color: rgb(209, 10, 123);
+}
+h2{
+font-family: 'Vast Shadow', cursive;
+    text-align: center;
+}
+h3{
+font-family: 'Vast Shadow', cursive;
+    text-align: center;
+}
+p
+{
+  font-family: 'Open Sans', open-sans;
+font-size: 25px;
+color: rgb(0,0,0);
+text-align: center;
+}
+
+#background {
+ background: url("https://czaplicki-j.github.io/PowerBallLogo2.png");
+} 
+
+#vertical {
+    position: relative;
+    width: 25px;
+    left: -8px;
+     white-space: nowrap;
+    color: rgb(255,255,255);
+    background-color: red;
+    writing-mode: vertical-lr;
+    text-orientation: mixed;
+    float: left;
+    font-size: 25px;
+    padding: 1px;
+ -webkit-transform:rotate(-180deg);
+-moz-transform:rotate(-180deg);
+-o-transform:rotate(-180deg);
+transform:rotate(-180deg);
+}
+#numbers {
+    font-size: 20px;
+    text-align: center;
+    color: rgb(209, 10, 123);
+}
+#powerNumbers{
+    font-size: 40px;
+    text-align: center;
+    color: black;
+}
+#dash{
+   text-align: center;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+/*Fractions*/
+.frac {
+  display: inline-block;
+  position: relative;
+  vertical-align: middle;
+  letter-spacing: 0.001em;
+  text-align: center;
+}
+.frac > span {
+  display: block;
+  padding: 0.1em;
+}
+.frac span.bottom {
+  border-top: thin solid black;
+}
+.frac span.symbol {
+  display: none;
+} 
