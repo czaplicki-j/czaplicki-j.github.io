@@ -65,6 +65,7 @@ transform:rotate(-180deg);
 }
 
 /*Fractions*/
+/*
 .frac {
   display: inline-block;
   position: relative;
@@ -81,4 +82,19 @@ transform:rotate(-180deg);
 }
 .frac span.symbol {
   display: none;
+}
+*/
+
+.fraction, .top, .bottom {
+  padding: 0 5px;    
+}
+
+.fraction {
+  display: inline-block;
+  text-align: center;    
+}
+
+.bottom{
+  border-top: 1px solid #000;
+  display: block;
 }
