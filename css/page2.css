@@ -24,7 +24,7 @@ text-align: center;
 
 #background {
  background: url("https://czaplicki-j.github.io/PowerBallLogo2.png");
-} 
+}
 
 #vertical {
     position: relative;
@@ -60,7 +60,8 @@ transform:rotate(-180deg);
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
+  width: 98.5%;
+  height: auto;
 }
 
 /*Fractions*/
@@ -80,4 +81,4 @@ transform:rotate(-180deg);
 }
 .frac span.symbol {
   display: none;
-} 
+}
