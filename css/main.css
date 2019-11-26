@@ -58,7 +58,7 @@ transform:rotate(-180deg);
 .center {
   display: block;
   margin-left: auto;
-  margin-right: 100%;
-  width: 100%;
+  margin-right: auto;
+  width: 98.5%;
   height: auto;
 }
