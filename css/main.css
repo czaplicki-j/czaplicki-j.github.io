@@ -43,12 +43,13 @@ text-align: center;
 transform:rotate(-180deg);
 }
 #numbers {
-  font-family: 'Vast Shadow', sans serif;
+  font-family: 'Archivo Narrow', sans-serif;
     font-size: 20px;
     text-align: center;
     color: rgb(209, 10, 123);
 }
 #powerNumbers{
+  font-family: 'Vast Shadow', sans serif;
     font-size: 40px;
     text-align: center;
     color: black;

@@ -1,19 +1,19 @@
 h1
 {
-font-family: 'Times New Roman', sans serif;
+font-family: 'Vast Shadow', cursive;
   font-size: 30px;
   text-align: center;
   color: rgb(70, 19, 117);
 }
 h2{
-font-family: 'Vast Shadow', cursive;
+font-family: 'Times New Roman', sans serif;
     text-align: left;
 }
 p{
 font-family: 'Archivo Narrow', sans-serif;
 font-size: 30px;
 color: rgb(0,0,0);
-text-align: center;
+text-align: left;
 }
 #background {
  background: url("https://czaplicki-j.github.io/PowerBallLogo2.png");
