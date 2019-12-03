@@ -18,7 +18,7 @@ color: rgb(0,0,0);
 text-align: left;
 }
 #background {
- background: url("https://czaplicki-j.github.io/PowerBallLogo2.png");
+ background-image: url("/pictures/NYlogo.png");
 }
 
 #vertical {

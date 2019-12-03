@@ -22,9 +22,8 @@ text-align: center;
 }
 
 #background {
- background: url("https://czaplicki-j.github.io/PowerBallLogo2.png");
+ background-image: url("/pictures/NYlogo.png");
 }
-
 #vertical {
     position: relative;
     width: 25px;
