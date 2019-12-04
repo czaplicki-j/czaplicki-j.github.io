@@ -62,28 +62,15 @@ transform:rotate(-180deg);
   width: 95.5%;
   height: auto;
 }
+.examples {
+  display: block;
+  margin-left: auto;
+  margin-left: auto;
+  width: auto;
+  height: auto;
+}
 
 /*Fractions*/
-/*
-.frac {
-  display: inline-block;
-  position: relative;
-  vertical-align: middle;
-  letter-spacing: 0.001em;
-  text-align: center;
-}
-.frac > span {
-  display: block;
-  padding: 0.1em;
-}
-.frac span.bottom {
-  border-top: thin solid black;
-}
-.frac span.symbol {
-  display: none;
-}
-*/
-
 span.frac {
   display: inline-block;
   text-align: center;
