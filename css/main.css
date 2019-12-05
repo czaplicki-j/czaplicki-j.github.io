@@ -64,3 +64,7 @@ transform:rotate(-180deg);
   width: 97%;
   height: auto;
 }
+#play{
+  font-size:25px;
+  text-align: center;
+}
