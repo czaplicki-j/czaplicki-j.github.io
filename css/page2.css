@@ -55,6 +55,9 @@ transform:rotate(-180deg);
 #dash{
    text-align: center;
 }
+#left{
+  text-align: left;
+}
 .center {
   display: block;
   margin-left: auto;
