@@ -18,7 +18,7 @@ p{
 font-family: 'Archivo Narrow', sans-serif;
 font-size: 30px;
 color: rgb(0,0,0);
-text-align: center;
+text-align: left;
 }
 
 #background {
@@ -55,11 +55,8 @@ transform:rotate(-180deg);
 #dash{
    text-align: center;
 }
-#left{
-  font-family: 'Archivo Narrow', sans-serif;
-  font-size: 30px;
-  color: rgb(0,0,0);
-  text-align: left;
+#center{
+  text-align: center;
 }
 .center {
   display: block;
