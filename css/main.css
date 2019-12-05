@@ -65,6 +65,8 @@ transform:rotate(-180deg);
   height: auto;
 }
 #play{
-  font-size:25px;
+  color: rgb(0,0,0);
+  font-family: 'Vast Shadow', sans serif;
+  font-size: 40px;
   text-align: center;
 }
