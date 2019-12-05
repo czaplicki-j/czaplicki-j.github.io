@@ -2,15 +2,17 @@
 h1
 {
 font-family: 'Times New Roman', sans serif;
-  font-size: 30px;
+  font-size: 50px;
   text-align: center;
   color: rgb(70, 19, 117);
 }
 h2{
+    font-size: 40px;
 font-family: 'Vast Shadow', cursive;
     text-align: center;
 }
 h3{
+    font-size: 35px;
 font-family: 'Vast Shadow', cursive;
     text-align: center;
 }
